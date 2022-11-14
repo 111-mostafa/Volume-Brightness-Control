@@ -9,8 +9,7 @@ MediaPipe is a Framework for building machine learning pipelines for processing 
 - Hand landmark model performs precise keypoint localization of 21 3D hand-knuckle coordinates inside the detected hand regions via regression, that is direct coordinate prediction.
 
 
-<img src="image.png" alt="Alt text" title="Optional title">
-
+![image.png](attachment:image.png)
 
 ## libraries you need 
 cv2
